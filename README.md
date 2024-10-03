@@ -8,7 +8,9 @@ According to Inside Airbnb website, the data is sourced from publicly available 
 ### Tools Used
 
 . Excel - Data Cleaning
+
 . Tableau - Creating Reports
+
 . Weka -  
 
 ### Data Cleaning/Preparation
